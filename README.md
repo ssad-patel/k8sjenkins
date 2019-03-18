@@ -1,1 +1,2 @@
-Simple Dockerfile demoimage
+# hellowhale
+Simple Docker Demo App
